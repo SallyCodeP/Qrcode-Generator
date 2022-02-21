@@ -1,4 +1,4 @@
 # Qrcode-Generator
 Gerador de Qrcode 
 
-Program que gera um Qrcode com qualque palavra, frase ou link inserido
+Programa com interface grafica e feito 100% em python que gera um Qrcode com qualque palavra, frase ou link inserido
